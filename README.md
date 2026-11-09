@@ -103,7 +103,7 @@
 <p>Interface inicial da plataforma, com campos de usuário e senha e apresentação das credenciais demonstrativas de acesso.</p>
 
 <div align="center">
-  <img src="docs/prints/01-login.png" width="85%" alt="Tela de login do Sistema Musical">
+  <img src="01-login.png" width="85%" alt="Tela de login do Sistema Musical">
 </div>
 
 <h3>02. Menu Principal</h3>
