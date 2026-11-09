@@ -1,4 +1,4 @@
-<h1 align="center">🎧 Sistema Musical — Sua Biblioteca, Seu Universo</h1>
+<h1 align="center">🎧 Sistema Musical — Sua Biblioteca, seu jeito de ouvir música</h1>
 
 <div align="center">
 
