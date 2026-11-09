@@ -102,41 +102,41 @@
 
 <p>Interface inicial da plataforma, com campos de usuário e senha e apresentação das credenciais demonstrativas de acesso.</p>
 
-<div align="center">
-  <img src="docs/prints/01-login.png" width="85%" alt="Tela de login do Sistema Musical">
-</div>
+<p align="center">
+  <img src="Sistema%20Musical%20%E2%96%B6%EF%B8%8E%E2%80%A2%E1%81%8A%E1%81%8A%E1%81%8A%E1%81%8B%E1%81%8B%E1%81%8A%E1%81%8B%E2%80%A2/docs/prints/01-login.png" width="85%" alt="Tela de login do Sistema Musical">
+</p>
 
 <h3>02. Menu Principal</h3>
 
 <p>Painel de navegação que apresenta as três áreas centrais da aplicação: artistas, cadastro de músicas e biblioteca musical.</p>
 
-<div align="center">
-  <img src="docs/prints/02-menu-principal.png" width="95%" alt="Menu principal do Sistema Musical">
-</div>
+<p align="center">
+  <img src="Sistema%20Musical%20%E2%96%B6%EF%B8%8E%E2%80%A2%E1%81%8A%E1%81%8A%E1%81%8A%E1%81%8B%E1%81%8B%E1%81%8A%E1%81%8B%E2%80%A2/docs/prints/02-menu-principal.png" width="95%" alt="Menu principal do Sistema Musical">
+</p>
 
 <h3>03. Biblioteca Musical</h3>
 
 <p>Área de visualização do acervo, com pesquisa geral, seleção de artista e filtro por gênero. A tabela organiza os dados musicais e apresenta as ações disponíveis para cada registro.</p>
 
-<div align="center">
-  <img src="docs/prints/03-biblioteca-musical.png" width="100%" alt="Tela da Biblioteca Musical">
-</div>
+<p align="center">
+  <img src="Sistema%20Musical%20%E2%96%B6%EF%B8%8E%E2%80%A2%E1%81%8A%E1%81%8A%E1%81%8A%E1%81%8B%E1%81%8b%E1%81%8a%E1%81%8b%E2%80%A2/docs/prints/03-biblioteca-musical.png" width="100%" alt="Biblioteca Musical">
+</p>
 
 <h3>04. Cadastro de Músicas</h3>
 
 <p>Formulário destinado à inclusão de novas músicas, com campos para informações do artista, título, álbum, gênero, link do YouTube, capa e letra.</p>
 
-<div align="center">
-  <img src="docs/prints/04-cadastro-musica.png" width="100%" alt="Tela de cadastro de músicas">
-</div>
+<p align="center">
+  <img src="Sistema%20Musical%20%E2%96%B6%EF%B8%8E%E2%80%A2%E1%81%8a%E1%81%8a%E1%81%8a%E1%81%8b%E1%81%8b%E1%81%8a%E1%81%8b%E2%80%A2/docs/prints/04-cadastro-musica.png" width="100%" alt="Cadastro de Músicas">
+</p>
 
 <h3>05. Gerenciamento de Artistas</h3>
 
 <p>Interface dedicada ao cadastro e à organização dos artistas da biblioteca, com informações sobre nome, gênero musical, país e fotografia, além de uma área para visualizar os registros.</p>
 
-<div align="center">
-  <img src="docs/prints/05-cadastro-artista.png" width="100%" alt="Tela de gerenciamento de artistas">
-</div>
+<p align="center">
+  <img src="Sistema%20Musical%20%E2%96%B6%EF%B8%8E%E2%80%A2%E1%81%8a%E1%81%8a%E1%81%8a%E1%81%8b%E1%81%8b%E1%81%8a%E1%81%8b%E2%80%A2/docs/prints/05-cadastro-artista.png" width="100%" alt="Gerenciamento de Artistas">
+</p>
 
 <h2>▸ Estrutura do Projeto</h2>
 
@@ -191,16 +191,15 @@ Sistema-Musical/
 
   <em>Sua coleção. Seus artistas. Sua trilha sonora.</em>
 
-  <br><br>
+  <br>
 
   <code>HTML5</code> • <code>CSS3</code> • <code>Front-end</code> • <code>SENAI</code>
 
-  <br><br>
+  <br>
 
   <sub>Projeto acadêmico desenvolvido para o Trabalho de Conclusão do Semestre.</sub>
 
   <br>
 
   <strong>𓆩 Obrigado por visitar! 𓆪</strong>
-
 </div>
